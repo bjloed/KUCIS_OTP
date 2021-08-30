@@ -1,0 +1,10 @@
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\bin\Debug\KUCIS_OTP.exe.config
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\bin\Debug\KUCIS_OTP.exe
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\bin\Debug\KUCIS_OTP.pdb
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\obj\Debug\KUCIS_OTP.Client.resources
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\obj\Debug\KUCIS_OTP.Properties.Resources.resources
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\obj\Debug\KUCIS_OTP_Server.csproj.GenerateResource.cache
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\obj\Debug\KUCIS_OTP_Server.csproj.CoreCompileInputs.cache
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\obj\Debug\KUCIS_OTP.exe
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\obj\Debug\KUCIS_OTP.pdb
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP\obj\Debug\KUCIS_OTP_Server.csprojAssemblyReference.cache

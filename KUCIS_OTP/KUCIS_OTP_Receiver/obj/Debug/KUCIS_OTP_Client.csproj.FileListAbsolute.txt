@@ -1,0 +1,10 @@
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\bin\Debug\KUCIS_OTP_Receiver.exe.config
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\bin\Debug\KUCIS_OTP_Receiver.exe
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\bin\Debug\KUCIS_OTP_Receiver.pdb
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\obj\Debug\KUCIS_OTP_Client.csprojAssemblyReference.cache
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\obj\Debug\KUCIS_OTP_Receiver.Properties.Resources.resources
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\obj\Debug\KUCIS_OTP_Receiver.Server.resources
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\obj\Debug\KUCIS_OTP_Client.csproj.GenerateResource.cache
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\obj\Debug\KUCIS_OTP_Client.csproj.CoreCompileInputs.cache
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\obj\Debug\KUCIS_OTP_Receiver.exe
+C:\Users\tsms\source\repos\KUCIS_OTP\KUCIS_OTP_Receiver\obj\Debug\KUCIS_OTP_Receiver.pdb
